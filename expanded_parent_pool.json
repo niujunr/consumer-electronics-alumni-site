@@ -1,0 +1,50 @@
+{
+  "cutoffDate": "2024-07-02",
+  "expandedParentPool": [
+    "安克/安克创新/Anker",
+    "大疆/大疆创新/DJI",
+    "影石/Insta360",
+    "拓竹/Bambu Lab",
+    "正浩/EcoFlow",
+    "追觅/Dreame",
+    "石头/Roborock",
+    "云鲸/Narwal",
+    "科沃斯/Ecovacs",
+    "九号/Segway-Ninebot",
+    "极飞/XAG",
+    "韶音/Shokz",
+    "倍思/Baseus",
+    "绿联/UGREEN",
+    "徕芬/Laifen",
+    "极米/XGIMI",
+    "Rokid",
+    "XREAL/Nreal",
+    "小米/米家/小米生态链",
+    "华为终端/华为消费者业务/华为",
+    "荣耀",
+    "OPPO",
+    "vivo"
+  ],
+  "rows": 45,
+  "backgroundCounts": {
+    "技术背景": 34,
+    "市场背景": 3,
+    "其他背景": 8
+  },
+  "fundingRoundCounts": {
+    "港股IPO递表": 2,
+    "天使轮": 9,
+    "Pre-A轮": 1,
+    "A轮": 2,
+    "天使轮+Pre-A轮": 1,
+    "暂无": 23,
+    "天使轮/天使+轮": 1,
+    "种子轮": 1,
+    "B轮": 1,
+    "美股IPO启动": 1,
+    "第三轮融资": 1,
+    "IPO辅导备案": 1,
+    "A+轮": 1
+  },
+  "snippets": 109
+}
